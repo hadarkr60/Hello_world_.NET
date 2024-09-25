@@ -1,10 +1,23 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType> <!-- OutputType is set to Library for packaging -->
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- Disable automatic generation of assembly info to avoid duplicates -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+
+  <!-- Additional properties for NuGet packaging, if needed -->
+  <PropertyGroup>
+    <PackageId>HelloWorld.Library</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>YourName</Authors>
+    <Company>YourCompany</Company>
+    <Description>A simple HelloWorld console library</Description>
+    <PackageTags>hello, world, library</PackageTags>
   </PropertyGroup>
 
 </Project>
