@@ -107,3 +107,4 @@
 /home/hadar/git/Projects/azure/HelloWorld/HelloWorld.Tests/obj/Debug/net8.0/HelloWorld.Tests.pdb
 /home/hadar/git/Projects/azure/HelloWorld/HelloWorld.Tests/obj/Debug/net8.0/HelloWorld.Tests.genruntimeconfig.cache
 /home/hadar/git/Projects/azure/HelloWorld/HelloWorld.Tests/obj/Debug/net8.0/ref/HelloWorld.Tests.dll
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld.Tests/obj/Debug/net8.0/HelloWorld.Tests.sourcelink.json

@@ -1,0 +1,12 @@
+# Ignore everything
+*
+# But not these files...
+!.gitignore
+!*.csproj
+!*.sln
+!**/*.cs
+
+# Exclude obj and bin folders
+**/[Oo]bj/
+**/[Bb]in/
+
