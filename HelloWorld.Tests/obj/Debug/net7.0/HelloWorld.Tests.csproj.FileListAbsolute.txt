@@ -1,0 +1,6 @@
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/HelloWorld.Tests/obj/Debug/net7.0/HelloWorld.Tests.csproj.AssemblyReference.cache
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/HelloWorld.Tests/obj/Debug/net7.0/HelloWorld.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/HelloWorld.Tests/obj/Debug/net7.0/HelloWorld.Tests.AssemblyInfoInputs.cache
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/HelloWorld.Tests/obj/Debug/net7.0/HelloWorld.Tests.AssemblyInfo.cs
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/HelloWorld.Tests/obj/Debug/net7.0/HelloWorld.Tests.csproj.CoreCompileInputs.cache
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/HelloWorld.Tests/obj/Debug/net7.0/HelloWorld.Tests.sourcelink.json

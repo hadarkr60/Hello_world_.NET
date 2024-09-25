@@ -1,0 +1,15 @@
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.sourcelink.json
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/hadar/git/Projects/azure/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

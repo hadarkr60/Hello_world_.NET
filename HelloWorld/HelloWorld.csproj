@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework> <!-- You can change to any supported version -->
+    <AssemblyName>HelloWorld</AssemblyName>
+    <RootNamespace>HelloWorld</RootNamespace>
+    
+    <!-- NuGet package metadata -->
+    <PackageId>HelloWorld</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>YourName</Authors>
+    <Company>YourCompany</Company>
+    <Description>A simple HelloWorld .NET CLI app that can be packaged into NuGet</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/yourrepo/HelloWorld</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
